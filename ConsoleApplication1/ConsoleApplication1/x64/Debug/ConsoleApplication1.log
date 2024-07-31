@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsString.h(42,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsString.h(46,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsString.h(58,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsString.h(186,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsString.h(313,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsString.h(360,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsUtil.h(63,5): warning C4102: 'defualt': unreferenced label
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsTotalBalancesScreen.h(47,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(251,1): warning C4715: 'clsBankClient::save': not all control paths return a value
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsBankClient.h(303,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+D:\c+++\Projects-Of-Course-11\ConsoleApplication1\ConsoleApplication1\clsUser.h(336,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\c+++\Projects-Of-Course-11\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
